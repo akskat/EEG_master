@@ -2,3 +2,4 @@ EEG test filer/
 venv/
 data/
 csv_output/
+saved_artifacts/
