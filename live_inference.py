@@ -7,7 +7,7 @@ import numpy as np
 from datetime import datetime as dt
 from scipy.signal import iirnotch, butter, filtfilt
 import joblib
-from model_utils import CovTransport
+from old.model_utils import CovTransport
 from pylsl import StreamInfo, StreamOutlet, StreamInlet, resolve_stream
 
 # ----------------------------------------------------------------
